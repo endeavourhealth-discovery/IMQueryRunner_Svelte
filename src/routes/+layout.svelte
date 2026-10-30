@@ -5,8 +5,6 @@
 	import { Button } from 'bits-ui';
 
 	let { children, data }: LayoutProps = $props();
-
-	function login() {}
 </script>
 
 <svelte:head>
